@@ -1,0 +1,1557 @@
+Paula,1,10,11,2020-06-09
+Paula,2,10,13,2020-06-09
+Paula,2,10,14,2020-06-09
+Paula,3,10,16,2020-06-09
+Poo Face@s.sfusd.edu,1,10,16,2020-06-09
+Maggie,1,10,10,2020-06-09
+Maggie,1,10,10,2020-06-09
+Maggie,1,6,14,2020-06-09
+Maggie,1,10,11,2020-06-09
+Maggie,1,9,11,2020-06-09
+Maggie,1,10,10,2020-06-09
+Maggie,1,10,12,2020-06-09
+Maggie,1,9,12,2020-06-09
+Maggie,9,10,27,2020-06-09
+Maggie,9,4,27,2020-06-09
+Maggie,1,10,10,2020-06-09
+Maggie,2,10,19,2020-06-09
+Maggie,3,2,20,2020-06-09
+Maggie,12,0,4,2020-06-09
+Maggie,1,0,1,2020-06-09
+Poo Face@s.sfusd.edu,10,10,15,2020-06-09
+Poo Face@s.sfusd.edu,10,10,21,2020-06-09
+Poo Face@s.sfusd.edu,9,10,70,2020-06-09
+Poo Face@s.sfusd.edu,8,10,66,2020-06-09
+Poo Face@s.sfusd.edu,7,10,93,2020-06-09
+Poo Face@s.sfusd.edu,6,10,100,2020-06-09
+Poo Face@s.sfusd.edu,5,9,46,2020-06-09
+Poo Face@s.sfusd.edu,4,10,54,2020-06-09
+Poo Face@s.sfusd.edu,3,10,44,2020-06-09
+Poo Face@s.sfusd.edu,2,10,29,2020-06-09
+Poo Face@s.sfusd.edu,1,9,16,2020-06-09
+Poo Face@s.sfusd.edu,1,10,13,2020-06-09
+Poo Face@s.sfusd.edu,1,0,2,2020-06-09
+Paula,2,10,15,2020-06-09
+Paula,2,10,12,2020-06-09
+Paula,2,10,14,2020-06-09
+Paula,1,10,10,2020-06-09
+Paula,2,10,16,2020-06-09
+Paula,3,10,17,2020-06-09
+Paula,4,10,18,2020-06-09
+Paula,2,9,16,2020-06-09
+Paula,2,10,14,2020-06-09
+Paula,3,8,20,2020-06-09
+Paula,5,10,19,2020-06-09
+Jeremiah,15,8,24,2020-06-09
+Paula,1,10,34,2020-06-10
+Paula,33,0,3,2020-06-10
+Paula,55,2,13,2020-06-10
+Paula,1,9,11,2020-06-10
+Paula,4,10,18,2020-06-10
+Paula,6,0,4,2020-06-10
+Paula,6,0,4,2020-06-10
+Maggie,1,10,9,2020-06-10
+Maggie,1,10,9,2020-06-10
+Maggie,2,10,17,2020-06-10
+Maggie,2,10,16,2020-06-10
+Maggie,3,5,36,2020-06-10
+Maggie,1,8,13,2020-06-10
+Maggie,1,8,10,2020-06-10
+Maggie,1,9,9,2020-06-10
+Poo Face@s.sfusd.edu,1,10,18,2020-06-10
+Maggie,2,10,13,2020-06-10
+Poo Face@s.sfusd.edu,2,10,32,2020-06-10
+Maggie,3,10,22,2020-06-10
+Poo Face@s.sfusd.edu,3,10,49,2020-06-10
+Maggie,4,10,30,2020-06-10
+Poo Face@s.sfusd.edu,4,10,59,2020-06-10
+Maggie,5,9,34,2020-06-10
+Maggie,1,9,9,2020-06-10
+Maggie,1,10,10,2020-06-10
+Maggie,1,7,10,2020-06-10
+Maggie,1,8,10,2020-06-10
+Maggie,1,9,10,2020-06-10
+Maggie,1,0,2,2020-06-10
+Jeremiah,1,10,19,2020-06-10
+Jeremiah,1,10,10,2020-06-10
+Jeremiah,1,10,10,2020-06-10
+Maggie,1,10,10,2020-06-10
+Maggie,1,9,10,2020-06-10
+Jeremiah,2,1,8,2020-06-10
+Jeremiah,2,8,13,2020-06-10
+Jeremiah,2,10,12,2020-06-10
+Poo Face@s.sfusd.edu,1,10,15,2020-06-11
+Poo Face@s.sfusd.edu,2,10,24,2020-06-11
+Poo Face@s.sfusd.edu,3,10,74,2020-06-11
+Poo Face@s.sfusd.edu,4,10,49,2020-06-11
+Poo Face@s.sfusd.edu,5,10,59,2020-06-11
+Poo Face@s.sfusd.edu,6,10,106,2020-06-11
+Poo Face@s.sfusd.edu,7,8,66,2020-06-11
+Poo Face@s.sfusd.edu,8,9,56,2020-06-11
+Poo Face@s.sfusd.edu,9,10,27,2020-06-11
+Poo Face@s.sfusd.edu,10,8,28,2020-06-11
+Poo Face@s.sfusd.edu,11,8,41,2020-06-11
+Poo Face@s.sfusd.edu,12,7,110,2020-06-11
+Maggie,1,10,9,2020-06-11
+Maggie,2,10,14,2020-06-11
+Maggie,3,10,20,2020-06-11
+Maggie,4,7,35,2020-06-11
+Maggie,4,0,4,2020-06-11
+Maggie,4,4,17,2020-06-11
+Maggie,4,10,36,2020-06-11
+Maggie,5,10,25,2020-06-11
+Maggie,6,8,30,2020-06-11
+Maggie,7,2,15,2020-06-11
+Maggie,7,10,49,2020-06-11
+Maggie,8,8,30,2020-06-11
+Maggie,9,9,29,2020-06-11
+Maggie,10,10,20,2020-06-11
+Maggie,11,10,17,2020-06-11
+Maggie,12,6,24,2020-06-11
+Paula,1,9,12,2020-06-12
+Paula,1,9,13,2020-06-12
+Paula,1,8,18,2020-06-12
+Paula,1,0,27,2020-06-12
+Maggie,1,10,10,2020-06-12
+Maggie,2,10,14,2020-06-12
+Maggie,3,10,23,2020-06-12
+Maggie,4,10,37,2020-06-12
+Maggie,5,10,28,2020-06-12
+Maggie,6,10,43,2020-06-12
+Maggie,7,9,32,2020-06-12
+Maggie,8,6,39,2020-06-12
+Maggie,9,10,28,2020-06-12
+Maggie,10,10,18,2020-06-12
+Poo Face@s.sfusd.edu,11,10,64,2020-06-12
+Poo Face@s.sfusd.edu,10,10,24,2020-06-12
+Poo Face@s.sfusd.edu,9,10,55,2020-06-12
+Poo Face@s.sfusd.edu,8,10,32,2020-06-12
+Poo Face@s.sfusd.edu,7,9,58,2020-06-12
+Poo Face@s.sfusd.edu,6,9,71,2020-06-12
+Poo Face@s.sfusd.edu,5,9,38,2020-06-12
+Poo Face@s.sfusd.edu,4,10,56,2020-06-12
+Poo Face@s.sfusd.edu,3,10,24,2020-06-12
+Poo Face@s.sfusd.edu,2,10,22,2020-06-12
+Poo Face@s.sfusd.edu,1,10,14,2020-06-12
+Poo Face@s.sfusd.edu,123,0,12,2020-06-12
+Maggie,1,10,8,2020-06-15
+Maggie,2,10,13,2020-06-15
+Maggie,3,10,13,2020-06-15
+Maggie,4,10,24,2020-06-15
+Maggie,5,9,24,2020-06-15
+Maggie,6,10,28,2020-06-15
+Maggie,7,10,28,2020-06-15
+Maggie,8,10,40,2020-06-15
+Maggie,9,10,22,2020-06-15
+Maggie,10,10,16,2020-06-15
+Maggie,11,10,12,2020-06-15
+Maggie,12,8,33,2020-06-15
+Poo Face@s.sfusd.edu,12,10,135,2020-06-15
+Poo Face@s.sfusd.edu,1,10,22,2020-06-15
+Poo Face@s.sfusd.edu,11,10,27,2020-06-15
+Poo Face@s.sfusd.edu,10,10,27,2020-06-15
+Poo Face@s.sfusd.edu,9,10,44,2020-06-15
+Poo Face@s.sfusd.edu,8,10,65,2020-06-15
+Poo Face@s.sfusd.edu,7,10,95,2020-06-15
+Poo Face@s.sfusd.edu,6,10,31,2020-06-15
+Poo Face@s.sfusd.edu,5,10,41,2020-06-15
+Poo Face@s.sfusd.edu,4,9,55,2020-06-15
+Poo Face@s.sfusd.edu,3,10,83,2020-06-15
+Poo Face@s.sfusd.edu,2,10,28,2020-06-15
+Poo Face@s.sfusd.edu,1,10,18,2020-06-15
+Maggie,1,10,9,2020-06-16
+Maggie,1,10,10,2020-06-16
+Maggie,2,10,17,2020-06-16
+Maggie,3,3,13,2020-06-16
+Maggie,3,3,15,2020-06-16
+Maggie,3,9,21,2020-06-16
+Maggie,4,9,41,2020-06-16
+Maggie,5,10,28,2020-06-16
+Maggie,6,0,2,2020-06-16
+Maggie,6,10,25,2020-06-16
+Maggie,7,10,23,2020-06-16
+Maggie,8,8,20,2020-06-16
+Maggie,9,10,28,2020-06-16
+Maggie,10,10,14,2020-06-16
+Maggie,11,9,14,2020-06-16
+Maggie,12,8,24,2020-06-16
+Poo Face@s.sfusd.edu,12,10,66,2020-06-16
+Poo Face@s.sfusd.edu,11,9,27,2020-06-16
+Poo Face@s.sfusd.edu,10,10,21,2020-06-16
+Poo Face@s.sfusd.edu,9,9,52,2020-06-16
+Poo Face@s.sfusd.edu,8,10,37,2020-06-16
+Poo Face@s.sfusd.edu,7,8,47,2020-06-16
+Poo Face@s.sfusd.edu,6,10,49,2020-06-16
+Poo Face@s.sfusd.edu,5,9,39,2020-06-16
+Poo Face@s.sfusd.edu,4,9,60,2020-06-16
+Poo Face@s.sfusd.edu,3,10,79,2020-06-16
+Poo Face@s.sfusd.edu,2,10,29,2020-06-16
+Poo Face@s.sfusd.edu,1,10,16,2020-06-16
+Maggie,1,10,10,2020-06-17
+Maggie,2,10,15,2020-06-17
+Maggie,3,10,30,2020-06-17
+Maggie,4,10,27,2020-06-17
+Maggie,5,10,31,2020-06-17
+Maggie,6,10,24,2020-06-17
+Maggie,7,10,24,2020-06-17
+Maggie,8,9,32,2020-06-17
+Maggie,9,9,28,2020-06-17
+Maggie,10,10,15,2020-06-17
+Maggie,11,10,19,2020-06-17
+Maggie,12,8,23,2020-06-17
+Poo Face@s.sfusd.edu,12,10,60,2020-06-17
+Poo Face@s.sfusd.edu,10,10,20,2020-06-17
+Poo Face@s.sfusd.edu,11,9,22,2020-06-17
+Poo Face@s.sfusd.edu,9,9,46,2020-06-17
+Poo Face@s.sfusd.edu,8,10,45,2020-06-17
+Poo Face@s.sfusd.edu,7,10,32,2020-06-17
+Poo Face@s.sfusd.edu,6,10,95,2020-06-17
+Poo Face@s.sfusd.edu,5,10,40,2020-06-17
+Poo Face@s.sfusd.edu,4,9,75,2020-06-17
+Poo Face@s.sfusd.edu,3,8,44,2020-06-17
+Poo Face@s.sfusd.edu,2,10,25,2020-06-17
+Poo Face@s.sfusd.edu,1,10,14,2020-06-17
+Maggie,1,10,9,2020-06-18
+Maggie,2,10,13,2020-06-18
+Maggie,3,10,16,2020-06-18
+Maggie,4,10,23,2020-06-18
+Maggie,5,10,23,2020-06-18
+Maggie,6,10,24,2020-06-18
+Maggie,7,10,30,2020-06-18
+Maggie,8,8,38,2020-06-18
+Maggie,9,9,33,2020-06-18
+Maggie,10,8,15,2020-06-18
+Maggie,11,10,15,2020-06-18
+Maggie,12,9,48,2020-06-18
+Poo Face@s.sfusd.edu,12,10,55,2020-06-18
+Poo Face@s.sfusd.edu,11,10,24,2020-06-18
+Poo Face@s.sfusd.edu,10,10,28,2020-06-18
+Poo Face@s.sfusd.edu,9,9,46,2020-06-18
+Poo Face@s.sfusd.edu,8,10,32,2020-06-18
+Poo Face@s.sfusd.edu,7,10,64,2020-06-18
+Poo Face@s.sfusd.edu,6,10,44,2020-06-18
+Poo Face@s.sfusd.edu,5,10,38,2020-06-18
+Poo Face@s.sfusd.edu,4,10,51,2020-06-18
+Poo Face@s.sfusd.edu,3,10,111,2020-06-18
+Poo Face@s.sfusd.edu,2,10,48,2020-06-18
+Poo Face@s.sfusd.edu,1,10,14,2020-06-18
+Maggie,1,10,11,2020-06-19
+Maggie,2,10,18,2020-06-19
+Maggie,3,10,35,2020-06-19
+Maggie,4,10,27,2020-06-19
+Maggie,5,9,27,2020-06-19
+Maggie,6,10,33,2020-06-19
+Maggie,7,1,5,2020-06-19
+Maggie,7,9,52,2020-06-19
+Maggie,8,10,31,2020-06-19
+Maggie,9,10,42,2020-06-19
+Maggie,10,10,19,2020-06-19
+Maggie,11,8,23,2020-06-19
+Maggie,12,9,28,2020-06-19
+Poo Face@s.sfusd.edu,12,8,39,2020-06-19
+Poo Face@s.sfusd.edu,11,9,29,2020-06-19
+Poo Face@s.sfusd.edu,10,10,24,2020-06-19
+Poo Face@s.sfusd.edu,9,10,52,2020-06-19
+Poo Face@s.sfusd.edu,8,10,76,2020-06-19
+Poo Face@s.sfusd.edu,7,10,56,2020-06-19
+Poo Face@s.sfusd.edu,6,10,115,2020-06-19
+Poo Face@s.sfusd.edu,5,10,29,2020-06-19
+Poo Face@s.sfusd.edu,4,5,111,2020-06-19
+Poo Face@s.sfusd.edu,3,10,34,2020-06-19
+Poo Face@s.sfusd.edu,2,10,27,2020-06-19
+Poo Face@s.sfusd.edu,1,9,14,2020-06-19
+Maggie,1,10,8,2020-06-20
+Maggie,2,10,13,2020-06-20
+Maggie,3,10,21,2020-06-20
+Maggie,4,10,18,2020-06-20
+Maggie,5,10,28,2020-06-20
+Maggie,6,10,31,2020-06-20
+Maggie,7,9,44,2020-06-20
+Maggie,8,10,55,2020-06-20
+Maggie,10,10,15,2020-06-20
+Maggie,11,10,13,2020-06-20
+Maggie,12,9,38,2020-06-20
+Poo Face@s.sfusd.edu,12,10,36,2020-06-22
+Poo Face@s.sfusd.edu,11,10,32,2020-06-22
+Poo Face@s.sfusd.edu,10,10,23,2020-06-22
+Poo Face@s.sfusd.edu,9,10,41,2020-06-22
+Poo Face@s.sfusd.edu,8,10,37,2020-06-22
+Poo Face@s.sfusd.edu,7,10,76,2020-06-22
+Poo Face@s.sfusd.edu,6,10,48,2020-06-22
+Poo Face@s.sfusd.edu,5,10,35,2020-06-22
+Poo Face@s.sfusd.edu,4,10,59,2020-06-22
+Poo Face@s.sfusd.edu,3,10,88,2020-06-22
+Poo Face@s.sfusd.edu,2,10,31,2020-06-22
+Poo Face@s.sfusd.edu,1,10,13,2020-06-22
+Maggie,1,9,10,2020-06-22
+Maggie,2,3,7,2020-06-22
+Maggie,1,10,11,2020-06-22
+Maggie,2,10,18,2020-06-22
+Maggie,3,10,18,2020-06-22
+Maggie,4,10,24,2020-06-22
+Maggie,5,10,27,2020-06-22
+Maggie,6,10,25,2020-06-22
+Maggie,7,10,35,2020-06-22
+Maggie,8,9,43,2020-06-22
+Maggie,9,10,31,2020-06-22
+Maggie,10,10,15,2020-06-22
+Maggie,11,10,16,2020-06-22
+Maggie,12,10,34,2020-06-22
+Poo Face@s.sfusd.edu,12,10,59,2020-06-23
+Poo Face@s.sfusd.edu,11,10,28,2020-06-23
+Poo Face@s.sfusd.edu,10,10,27,2020-06-23
+Poo Face@s.sfusd.edu,9,10,60,2020-06-23
+Poo Face@s.sfusd.edu,8,10,71,2020-06-23
+Poo Face@s.sfusd.edu,7,10,58,2020-06-23
+Poo Face@s.sfusd.edu,6,10,45,2020-06-23
+Poo Face@s.sfusd.edu,5,10,36,2020-06-23
+Poo Face@s.sfusd.edu,4,10,39,2020-06-23
+Poo Face@s.sfusd.edu,3,10,33,2020-06-23
+Poo Face@s.sfusd.edu,2,10,24,2020-06-23
+Poo Face@s.sfusd.edu,1,9,13,2020-06-23
+Maggie,1,10,9,2020-06-23
+Maggie,2,3,6,2020-06-23
+Maggie,2,10,17,2020-06-23
+Maggie,3,10,23,2020-06-23
+Maggie,4,10,19,2020-06-23
+Maggie,5,10,28,2020-06-23
+Maggie,6,10,23,2020-06-23
+Maggie,7,10,55,2020-06-23
+Maggie,8,10,41,2020-06-23
+Maggie,9,10,37,2020-06-23
+Maggie,10,10,18,2020-06-23
+Maggie,11,10,12,2020-06-23
+Maggie,12,9,45,2020-06-23
+Poo Face@s.sfusd.edu,12,10,59,2020-06-24
+Poo Face@s.sfusd.edu,11,10,22,2020-06-24
+Poo Face@s.sfusd.edu,10,10,38,2020-06-24
+Poo Face@s.sfusd.edu,9,10,61,2020-06-24
+Poo Face@s.sfusd.edu,8,10,83,2020-06-24
+Poo Face@s.sfusd.edu,7,10,112,2020-06-24
+Poo Face@s.sfusd.edu,6,10,99,2020-06-24
+Poo Face@s.sfusd.edu,6,10,46,2020-06-24
+Poo Face@s.sfusd.edu,5,9,55,2020-06-24
+Poo Face@s.sfusd.edu,4,10,65,2020-06-24
+Poo Face@s.sfusd.edu,3,9,79,2020-06-24
+Poo Face@s.sfusd.edu,2,10,43,2020-06-24
+Poo Face@s.sfusd.edu,1,10,12,2020-06-24
+Maggie,1,10,9,2020-06-24
+Maggie,2,10,13,2020-06-24
+Maggie,3,10,22,2020-06-24
+Maggie,4,10,28,2020-06-24
+Maggie,5,10,23,2020-06-24
+Maggie,6,10,33,2020-06-24
+Maggie,7,10,43,2020-06-24
+Maggie,8,10,37,2020-06-24
+Maggie,9,10,36,2020-06-24
+Maggie,10,9,15,2020-06-24
+Maggie,11,9,20,2020-06-24
+Maggie,12,10,32,2020-06-24
+Poo Face@s.sfusd.edu,12,9,55,2020-06-25
+Poo Face@s.sfusd.edu,11,10,25,2020-06-25
+Poo Face@s.sfusd.edu,10,10,23,2020-06-25
+Poo Face@s.sfusd.edu,9,10,49,2020-06-25
+Poo Face@s.sfusd.edu,8,10,82,2020-06-25
+Poo Face@s.sfusd.edu,12,10,37,2020-06-25
+Poo Face@s.sfusd.edu,11,10,21,2020-06-25
+Poo Face@s.sfusd.edu,10,10,22,2020-06-25
+Poo Face@s.sfusd.edu,9,10,29,2020-06-25
+Poo Face@s.sfusd.edu,8,10,65,2020-06-25
+Poo Face@s.sfusd.edu,7,9,44,2020-06-25
+Poo Face@s.sfusd.edu,6,10,62,2020-06-25
+Poo Face@s.sfusd.edu,5,9,66,2020-06-25
+Poo Face@s.sfusd.edu,4,10,55,2020-06-25
+Poo Face@s.sfusd.edu,3,9,54,2020-06-25
+Poo Face@s.sfusd.edu,2,10,58,2020-06-25
+Poo Face@s.sfusd.edu,1,9,13,2020-06-25
+Maggie,1,10,9,2020-06-25
+Maggie,2,1,5,2020-06-25
+Maggie,2,10,14,2020-06-25
+Maggie,3,10,17,2020-06-25
+Maggie,4,10,22,2020-06-25
+Maggie,5,8,16,2020-06-25
+Maggie,5,8,23,2020-06-25
+Maggie,6,10,35,2020-06-25
+Maggie,7,10,18,2020-06-25
+Maggie,8,10,15,2020-06-25
+Maggie,9,9,19,2020-06-25
+Maggie,10,10,14,2020-06-25
+Maggie,11,10,13,2020-06-25
+Maggie,12,9,28,2020-06-25
+Poo Face@s.sfusd.edu,12,9,91,2020-06-26
+Poo Face@s.sfusd.edu,11,10,35,2020-06-26
+Poo Face@s.sfusd.edu,10,10,32,2020-06-26
+Poo Face@s.sfusd.edu,9,9,73,2020-06-26
+Poo Face@s.sfusd.edu,8,9,66,2020-06-26
+Poo Face@s.sfusd.edu,7,10,74,2020-06-26
+Poo Face@s.sfusd.edu,6,10,76,2020-06-26
+Poo Face@s.sfusd.edu,5,10,53,2020-06-26
+Poo Face@s.sfusd.edu,4,10,69,2020-06-26
+Poo Face@s.sfusd.edu,3,10,42,2020-06-26
+Poo Face@s.sfusd.edu,2,10,32,2020-06-26
+Poo Face@s.sfusd.edu,1,10,22,2020-06-26
+Maggie,1,10,10,2020-06-26
+Maggie,2,10,13,2020-06-26
+Maggie,3,9,15,2020-06-26
+Maggie,4,10,27,2020-06-26
+Maggie,5,10,21,2020-06-26
+Maggie,6,9,27,2020-06-26
+Maggie,7,10,25,2020-06-26
+Maggie,8,10,32,2020-06-26
+Maggie,9,10,20,2020-06-26
+Maggie,10,10,14,2020-06-26
+Maggie,11,10,16,2020-06-26
+Maggie,12,10,28,2020-06-26
+Maggie,1,10,10,2020-06-27
+Maggie,2,10,12,2020-06-27
+Maggie,3,1,3,2020-06-27
+Maggie,3,10,24,2020-06-27
+Maggie,4,0,3,2020-06-27
+Maggie,4,10,40,2020-06-27
+Maggie,5,10,32,2020-06-27
+Maggie,6,10,26,2020-06-27
+Maggie,7,10,29,2020-06-27
+Maggie,8,8,61,2020-06-27
+Maggie,9,10,27,2020-06-27
+Maggie,10,10,15,2020-06-27
+Maggie,11,10,20,2020-06-27
+Maggie,12,10,18,2020-06-27
+Poo Face@s.sfusd.edu,12,10,60,2020-06-29
+Poo Face@s.sfusd.edu,11,10,23,2020-06-29
+Poo Face@s.sfusd.edu,10,10,22,2020-06-29
+Poo Face@s.sfusd.edu,9,10,62,2020-06-29
+Poo Face@s.sfusd.edu,8,10,66,2020-06-29
+Poo Face@s.sfusd.edu,7,9,77,2020-06-29
+Poo Face@s.sfusd.edu,6,10,38,2020-06-29
+Poo Face@s.sfusd.edu,5,10,42,2020-06-29
+Poo Face@s.sfusd.edu,4,8,116,2020-06-29
+Poo Face@s.sfusd.edu,3,6,85,2020-06-29
+Poo Face@s.sfusd.edu,2,10,45,2020-06-29
+Poo Face@s.sfusd.edu,1,10,23,2020-06-29
+Maggie,1,10,9,2020-06-29
+Maggie,2,10,10,2020-06-29
+Maggie,3,10,17,2020-06-29
+Maggie,4,10,40,2020-06-29
+Maggie,5,10,85,2020-06-29
+Maggie,6,9,40,2020-06-29
+Maggie,7,9,69,2020-06-29
+Maggie,8,10,31,2020-06-29
+Maggie,9,8,26,2020-06-29
+Maggie,10,9,16,2020-06-29
+Maggie,11,10,14,2020-06-29
+Maggie,12,10,29,2020-06-29
+Poo Face@s.sfusd.edu,12,10,36,2020-06-30
+Poo Face@s.sfusd.edu,11,10,29,2020-06-30
+Poo Face@s.sfusd.edu,10,10,30,2020-06-30
+Poo Face@s.sfusd.edu,9,10,51,2020-06-30
+Poo Face@s.sfusd.edu,8,10,118,2020-06-30
+Poo Face@s.sfusd.edu,7,8,94,2020-06-30
+Poo Face@s.sfusd.edu,6,10,66,2020-06-30
+Poo Face@s.sfusd.edu,5,9,29,2020-06-30
+Poo Face@s.sfusd.edu,4,9,40,2020-06-30
+Poo Face@s.sfusd.edu,3,10,32,2020-06-30
+Poo Face@s.sfusd.edu,2,10,26,2020-06-30
+Poo Face@s.sfusd.edu,1,10,13,2020-06-30
+Maggie,1,5,9,2020-06-30
+Maggie,1,3,6,2020-06-30
+Maggie,1,10,11,2020-06-30
+Maggie,2,10,18,2020-06-30
+Maggie,3,7,41,2020-06-30
+Maggie,4,10,24,2020-06-30
+Maggie,5,10,17,2020-06-30
+Maggie,6,10,37,2020-06-30
+Maggie,7,10,22,2020-06-30
+Maggie,8,10,23,2020-06-30
+Maggie,9,10,43,2020-06-30
+Maggie,10,10,14,2020-06-30
+Maggie,11,10,13,2020-06-30
+Maggie,12,10,23,2020-06-30
+Maggie,1,3,6,2020-07-01
+Maggie,1,10,11,2020-07-01
+Maggie,2,10,22,2020-07-01
+Maggie,3,8,24,2020-07-01
+Maggie,4,8,34,2020-07-01
+Maggie,5,9,20,2020-07-01
+Maggie,6,0,5,2020-07-01
+Maggie,7,10,20,2020-07-01
+Maggie,8,2,4,2020-07-01
+Maggie,9,0,2,2020-07-01
+Maggie,10,10,16,2020-07-01
+Maggie,12,0,4,2020-07-01
+Poo Face@s.sfusd.edu,12,10,54,2020-07-01
+Poo Face@s.sfusd.edu,12,10,50,2020-07-01
+Poo Face@s.sfusd.edu,11,10,54,2020-07-01
+Poo Face@s.sfusd.edu,10,10,39,2020-07-01
+Poo Face@s.sfusd.edu,9,10,87,2020-07-01
+Poo Face@s.sfusd.edu,8,10,29,2020-07-01
+Poo Face@s.sfusd.edu,7,9,66,2020-07-01
+Poo Face@s.sfusd.edu,6,10,51,2020-07-01
+Poo Face@s.sfusd.edu,5,10,38,2020-07-01
+Poo Face@s.sfusd.edu,4,9,72,2020-07-01
+Poo Face@s.sfusd.edu,3,10,68,2020-07-01
+Poo Face@s.sfusd.edu,2,10,54,2020-07-01
+Poo Face@s.sfusd.edu,1,10,15,2020-07-01
+Maggie,1,10,10,2020-07-02
+Maggie,2,10,15,2020-07-02
+Maggie,3,2,18,2020-07-02
+Maggie,4,0,1,2020-07-02
+Maggie,5,5,19,2020-07-02
+Maggie,6,0,1,2020-07-02
+Maggie,7,0,1,2020-07-02
+Maggie,8,0,1,2020-07-02
+Maggie,9,0,1,2020-07-02
+Maggie,10,10,15,2020-07-02
+Maggie,11,7,14,2020-07-02
+Maggie,12,0,1,2020-07-02
+Poo Face@s.sfusd.edu,12,10,36,2020-07-02
+Poo Face@s.sfusd.edu,11,10,25,2020-07-02
+Poo Face@s.sfusd.edu,10,9,37,2020-07-02
+Poo Face@s.sfusd.edu,9,10,38,2020-07-02
+Poo Face@s.sfusd.edu,8,10,34,2020-07-02
+Poo Face@s.sfusd.edu,7,10,37,2020-07-02
+Poo Face@s.sfusd.edu,6,10,46,2020-07-02
+Poo Face@s.sfusd.edu,5,9,37,2020-07-02
+Poo Face@s.sfusd.edu,4,10,42,2020-07-02
+Poo Face@s.sfusd.edu,3,10,96,2020-07-02
+Poo Face@s.sfusd.edu,2,10,18,2020-07-02
+Poo Face@s.sfusd.edu,1,9,13,2020-07-02
+Poo Face@s.sfusd.edu,12,10,59,2020-07-03
+Poo Face@s.sfusd.edu,11,10,27,2020-07-03
+Poo Face@s.sfusd.edu,10,10,50,2020-07-03
+Poo Face@s.sfusd.edu,9,9,64,2020-07-03
+Poo Face@s.sfusd.edu,8,10,30,2020-07-03
+Poo Face@s.sfusd.edu,7,10,105,2020-07-03
+Poo Face@s.sfusd.edu,6,10,70,2020-07-03
+Poo Face@s.sfusd.edu,5,10,29,2020-07-03
+Poo Face@s.sfusd.edu,4,8,61,2020-07-03
+Poo Face@s.sfusd.edu,3,10,51,2020-07-03
+Poo Face@s.sfusd.edu,2,10,84,2020-07-03
+Poo Face@s.sfusd.edu,1,10,16,2020-07-03
+Poo Face@s.sfusd.edu,100,8,33,2020-07-03
+Maggie,1,0,2,2020-07-03
+Maggie,2,0,1,2020-07-03
+Maggie,3,0,1,2020-07-03
+Maggie,4,0,1,2020-07-03
+Maggie,5,0,1,2020-07-03
+Maggie,6,0,1,2020-07-03
+Maggie,7,0,1,2020-07-03
+Maggie,8,0,1,2020-07-03
+Maggie,9,0,1,2020-07-03
+Maggie,10,0,1,2020-07-03
+Maggie,11,0,1,2020-07-03
+Maggie,12,9,34,2020-07-03
+Poo Face@s.sfusd.edu,12,10,48,2020-07-06
+Poo Face@s.sfusd.edu,11,10,24,2020-07-06
+Poo Face@s.sfusd.edu,10,10,21,2020-07-06
+Poo Face@s.sfusd.edu,9,10,32,2020-07-06
+Poo Face@s.sfusd.edu,8,10,50,2020-07-06
+Poo Face@s.sfusd.edu,7,10,52,2020-07-06
+Poo Face@s.sfusd.edu,6,10,69,2020-07-06
+Poo Face@s.sfusd.edu,5,10,58,2020-07-06
+Poo Face@s.sfusd.edu,4,10,41,2020-07-06
+Poo Face@s.sfusd.edu,3,9,35,2020-07-06
+Poo Face@s.sfusd.edu,2,9,32,2020-07-06
+Poo Face@s.sfusd.edu,1,10,14,2020-07-06
+Maggie,1,9,9,2020-07-06
+Maggie,2,10,15,2020-07-06
+Maggie,3,10,48,2020-07-06
+Maggie,4,10,39,2020-07-06
+Maggie,5,10,21,2020-07-06
+Maggie,6,0,1,2020-07-06
+Maggie,7,0,1,2020-07-06
+Maggie,8,0,1,2020-07-06
+Maggie,9,0,1,2020-07-06
+Maggie,10,0,1,2020-07-06
+Maggie,11,0,1,2020-07-06
+Maggie,12,0,1,2020-07-06
+Poo Face@s.sfusd.edu,12,10,39,2020-07-07
+Poo Face@s.sfusd.edu,11,10,27,2020-07-07
+Poo Face@s.sfusd.edu,10,10,49,2020-07-07
+Poo Face@s.sfusd.edu,9,10,39,2020-07-07
+Poo Face@s.sfusd.edu,8,10,123,2020-07-07
+Poo Face@s.sfusd.edu,7,10,58,2020-07-07
+Poo Face@s.sfusd.edu,6,10,107,2020-07-07
+Poo Face@s.sfusd.edu,5,10,54,2020-07-07
+Poo Face@s.sfusd.edu,4,10,31,2020-07-07
+Poo Face@s.sfusd.edu,3,10,41,2020-07-07
+Poo Face@s.sfusd.edu,2,10,23,2020-07-07
+Poo Face@s.sfusd.edu,1,10,13,2020-07-07
+Maggie,1,10,9,2020-07-07
+Maggie,2,5,12,2020-07-07
+Maggie,3,3,7,2020-07-07
+Maggie,4,10,19,2020-07-07
+Maggie,5,7,41,2020-07-07
+Maggie,6,0,1,2020-07-07
+Maggie,7,0,1,2020-07-07
+Maggie,8,0,1,2020-07-07
+Maggie,9,0,1,2020-07-07
+Maggie,10,4,6,2020-07-07
+Maggie,11,0,1,2020-07-07
+Maggie,12,0,1,2020-07-07
+Poo Face@s.sfusd.edu,12,10,54,2020-07-08
+Poo Face@s.sfusd.edu,11,10,22,2020-07-08
+Poo Face@s.sfusd.edu,10,10,23,2020-07-08
+Poo Face@s.sfusd.edu,9,10,32,2020-07-08
+Poo Face@s.sfusd.edu,8,10,56,2020-07-08
+Poo Face@s.sfusd.edu,7,10,36,2020-07-08
+Poo Face@s.sfusd.edu,6,10,26,2020-07-08
+Poo Face@s.sfusd.edu,5,10,40,2020-07-08
+Poo Face@s.sfusd.edu,4,7,54,2020-07-08
+Poo Face@s.sfusd.edu,3,10,20,2020-07-08
+Poo Face@s.sfusd.edu,2,10,24,2020-07-08
+Poo Face@s.sfusd.edu,1,10,20,2020-07-08
+Maggie,1,10,12,2020-07-08
+Maggie,2,10,13,2020-07-08
+Maggie,3,6,9,2020-07-08
+Maggie,4,10,69,2020-07-08
+Maggie,5,10,51,2020-07-08
+Maggie,66,0,4,2020-07-08
+Maggie,6,10,41,2020-07-08
+Maggie,7,9,42,2020-07-08
+Maggie,8,10,22,2020-07-08
+Maggie,9,10,93,2020-07-08
+Maggie,10,10,14,2020-07-08
+Maggie,11,10,15,2020-07-08
+Maggie,12,10,58,2020-07-08
+Poo Face@s.sfusd.edu,12,10,30,2020-07-09
+Poo Face@s.sfusd.edu,11,10,23,2020-07-09
+Poo Face@s.sfusd.edu,10,10,24,2020-07-09
+Poo Face@s.sfusd.edu,9,10,52,2020-07-09
+Poo Face@s.sfusd.edu,8,10,34,2020-07-09
+Poo Face@s.sfusd.edu,7,10,22,2020-07-09
+Poo Face@s.sfusd.edu,6,10,24,2020-07-09
+Poo Face@s.sfusd.edu,5,10,27,2020-07-09
+Poo Face@s.sfusd.edu,4,10,58,2020-07-09
+Poo Face@s.sfusd.edu,3,10,93,2020-07-09
+Poo Face@s.sfusd.edu,2,10,67,2020-07-09
+Poo Face@s.sfusd.edu,1,10,20,2020-07-09
+Maggie,1,2,5,2020-07-09
+Maggie,1,10,9,2020-07-09
+Maggie,2,10,17,2020-07-09
+Maggie,3,10,22,2020-07-09
+Maggie,4,10,29,2020-07-09
+Maggie,5,10,47,2020-07-09
+Maggie,6,10,39,2020-07-09
+Maggie,7,8,48,2020-07-09
+Maggie,9,0,2,2020-07-09
+Maggie,8,8,16,2020-07-09
+Maggie,9,10,40,2020-07-09
+Maggie,10,9,15,2020-07-09
+Maggie,11,9,13,2020-07-09
+Maggie,12,9,31,2020-07-09
+Maggie,1,10,12,2020-07-10
+Maggie,2,10,12,2020-07-10
+Maggie,3,6,10,2020-07-10
+Maggie,4,7,25,2020-07-10
+Maggie,5,10,26,2020-07-10
+Maggie,6,10,20,2020-07-10
+Maggie,7,10,28,2020-07-10
+Maggie,8,9,31,2020-07-10
+Maggie,9,10,23,2020-07-10
+Maggie,10,10,14,2020-07-10
+Maggie,11,10,13,2020-07-10
+Maggie,12,10,45,2020-07-10
+Poo Face@s.sfusd.edu,12,10,35,2020-07-10
+Poo Face@s.sfusd.edu,11,10,20,2020-07-10
+Poo Face@s.sfusd.edu,10,10,19,2020-07-10
+Poo Face@s.sfusd.edu,9,9,40,2020-07-10
+Poo Face@s.sfusd.edu,8,9,64,2020-07-10
+Poo Face@s.sfusd.edu,7,10,121,2020-07-10
+Poo Face@s.sfusd.edu,6,10,89,2020-07-10
+Poo Face@s.sfusd.edu,5,10,47,2020-07-10
+Poo Face@s.sfusd.edu,4,10,42,2020-07-10
+Poo Face@s.sfusd.edu,3,10,84,2020-07-10
+Poo Face@s.sfusd.edu,2,10,19,2020-07-10
+Poo Face@s.sfusd.edu,1,10,14,2020-07-10
+Poo Face@s.sfusd.edu,12,9,67,2020-07-13
+Poo Face@s.sfusd.edu,11,10,31,2020-07-13
+Poo Face@s.sfusd.edu,10,10,39,2020-07-13
+Poo Face@s.sfusd.edu,9,10,52,2020-07-13
+Poo Face@s.sfusd.edu,8,10,45,2020-07-13
+Poo Face@s.sfusd.edu,7,10,53,2020-07-13
+Poo Face@s.sfusd.edu,6,10,33,2020-07-13
+Poo Face@s.sfusd.edu,5,10,43,2020-07-13
+Poo Face@s.sfusd.edu,4,10,51,2020-07-13
+Poo Face@s.sfusd.edu,3,10,28,2020-07-13
+Poo Face@s.sfusd.edu,2,10,24,2020-07-13
+Poo Face@s.sfusd.edu,1,10,13,2020-07-13
+Maggie,1,10,15,2020-07-13
+Maggie,2,10,19,2020-07-13
+Maggie,3,10,28,2020-07-13
+Maggie,4,10,79,2020-07-13
+Maggie,5,10,37,2020-07-13
+Maggie,6,10,56,2020-07-13
+Maggie,7,10,35,2020-07-13
+Maggie,8,10,29,2020-07-13
+Maggie,9,10,28,2020-07-13
+Maggie,10,7,14,2020-07-13
+Maggie,11,10,15,2020-07-13
+Maggie,12,10,30,2020-07-13
+Poo Face@s.sfusd.edu,12,10,31,2020-07-14
+Poo Face@s.sfusd.edu,11,10,24,2020-07-14
+Poo Face@s.sfusd.edu,10,10,26,2020-07-14
+Poo Face@s.sfusd.edu,9,10,65,2020-07-14
+Poo Face@s.sfusd.edu,8,10,67,2020-07-14
+Poo Face@s.sfusd.edu,7,10,134,2020-07-14
+Poo Face@s.sfusd.edu,6,10,77,2020-07-14
+Poo Face@s.sfusd.edu,6,10,43,2020-07-14
+Poo Face@s.sfusd.edu,5,9,37,2020-07-14
+Poo Face@s.sfusd.edu,4,10,205,2020-07-14
+Poo Face@s.sfusd.edu,3,10,22,2020-07-14
+Poo Face@s.sfusd.edu,2,10,81,2020-07-14
+Poo Face@s.sfusd.edu,1,9,16,2020-07-14
+Poo Face@s.sfusd.edu,12,10,84,2020-07-15
+Poo Face@s.sfusd.edu,11,10,38,2020-07-15
+Poo Face@s.sfusd.edu,10,10,36,2020-07-15
+Poo Face@s.sfusd.edu,9,9,83,2020-07-15
+Poo Face@s.sfusd.edu,8,9,59,2020-07-15
+Poo Face@s.sfusd.edu,7,10,60,2020-07-15
+Poo Face@s.sfusd.edu,6,10,54,2020-07-15
+Poo Face@s.sfusd.edu,5,10,63,2020-07-15
+Poo Face@s.sfusd.edu,4,9,89,2020-07-15
+Poo Face@s.sfusd.edu,3,10,39,2020-07-15
+Poo Face@s.sfusd.edu,2,10,23,2020-07-15
+Poo Face@s.sfusd.edu,1,10,20,2020-07-15
+Poo Face@s.sfusd.edu,12,10,40,2020-07-16
+Poo Face@s.sfusd.edu,11,10,34,2020-07-16
+Poo Face@s.sfusd.edu,10,10,26,2020-07-16
+Poo Face@s.sfusd.edu,9,10,56,2020-07-16
+Poo Face@s.sfusd.edu,8,10,43,2020-07-16
+Poo Face@s.sfusd.edu,7,10,40,2020-07-16
+Poo Face@s.sfusd.edu,6,9,50,2020-07-16
+Poo Face@s.sfusd.edu,5,9,29,2020-07-16
+Poo Face@s.sfusd.edu,4,10,53,2020-07-16
+Poo Face@s.sfusd.edu,3,10,33,2020-07-16
+Poo Face@s.sfusd.edu,2,10,25,2020-07-16
+Poo Face@s.sfusd.edu,1,10,14,2020-07-16
+Paula,2,1,3,2020-07-16
+Paula,1,0,2,2020-07-16
+Paula,3,0,2,2020-07-16
+Maggie,1,10,11,2020-07-16
+Maggie,2,10,23,2020-07-16
+Maggie,3,10,94,2020-07-16
+Maggie,4,10,40,2020-07-16
+Maggie,5,10,58,2020-07-16
+Maggie,6,9,78,2020-07-16
+Maggie,7,9,56,2020-07-16
+Maggie,8,9,73,2020-07-16
+Maggie,9,10,78,2020-07-16
+Maggie,10,10,14,2020-07-16
+Maggie,11,10,15,2020-07-16
+Maggie,12,7,53,2020-07-16
+Maggie,1,9,10,2020-07-17
+Maggie,2,10,16,2020-07-17
+Maggie,3,10,21,2020-07-17
+Maggie,4,10,24,2020-07-17
+Maggie,5,10,28,2020-07-17
+Maggie,6,10,44,2020-07-17
+Maggie,7,9,28,2020-07-17
+Maggie,8,10,43,2020-07-17
+Maggie,9,10,56,2020-07-17
+Maggie,10,10,17,2020-07-17
+Maggie,11,10,20,2020-07-17
+Maggie,12,10,40,2020-07-17
+Poo Face@s.sfusd.edu,12,10,45,2020-07-17
+Poo Face@s.sfusd.edu,11,10,19,2020-07-17
+Poo Face@s.sfusd.edu,10,10,20,2020-07-17
+Poo Face@s.sfusd.edu,9,9,52,2020-07-17
+Poo Face@s.sfusd.edu,8,9,36,2020-07-17
+Poo Face@s.sfusd.edu,7,10,50,2020-07-17
+Poo Face@s.sfusd.edu,6,10,32,2020-07-17
+Poo Face@s.sfusd.edu,5,10,39,2020-07-17
+Poo Face@s.sfusd.edu,4,9,51,2020-07-17
+Poo Face@s.sfusd.edu,3,10,47,2020-07-17
+Poo Face@s.sfusd.edu,2,10,22,2020-07-17
+Poo Face@s.sfusd.edu,1,10,16,2020-07-17
+Poo Face@s.sfusd.edu,12,10,31,2020-07-20
+Poo Face@s.sfusd.edu,11,9,39,2020-07-20
+Poo Face@s.sfusd.edu,10,10,31,2020-07-20
+Poo Face@s.sfusd.edu,9,10,97,2020-07-20
+Poo Face@s.sfusd.edu,8,10,52,2020-07-20
+Poo Face@s.sfusd.edu,7,10,56,2020-07-20
+Poo Face@s.sfusd.edu,6,10,54,2020-07-20
+Poo Face@s.sfusd.edu,5,10,63,2020-07-20
+Poo Face@s.sfusd.edu,4,10,111,2020-07-20
+Poo Face@s.sfusd.edu,3,10,32,2020-07-20
+Poo Face@s.sfusd.edu,2,9,29,2020-07-20
+Poo Face@s.sfusd.edu,1,10,12,2020-07-20
+Poo Face@s.sfusd.edu,12,10,32,2020-07-21
+Poo Face@s.sfusd.edu,11,10,23,2020-07-21
+Poo Face@s.sfusd.edu,10,10,23,2020-07-21
+Poo Face@s.sfusd.edu,9,10,31,2020-07-21
+Poo Face@s.sfusd.edu,8,10,55,2020-07-21
+Poo Face@s.sfusd.edu,7,10,26,2020-07-21
+Poo Face@s.sfusd.edu,6,10,40,2020-07-21
+Poo Face@s.sfusd.edu,5,10,24,2020-07-21
+Poo Face@s.sfusd.edu,4,9,38,2020-07-21
+Poo Face@s.sfusd.edu,3,10,21,2020-07-21
+Poo Face@s.sfusd.edu,2,10,19,2020-07-21
+Poo Face@s.sfusd.edu,1,9,14,2020-07-21
+Poo Face@s.sfusd.edu,12,10,41,2020-07-22
+Poo Face@s.sfusd.edu,11,10,23,2020-07-22
+Poo Face@s.sfusd.edu,10,10,29,2020-07-22
+Poo Face@s.sfusd.edu,9,10,47,2020-07-22
+Poo Face@s.sfusd.edu,8,10,47,2020-07-22
+Poo Face@s.sfusd.edu,7,10,73,2020-07-22
+Poo Face@s.sfusd.edu,6,10,35,2020-07-22
+Poo Face@s.sfusd.edu,5,10,24,2020-07-22
+Poo Face@s.sfusd.edu,4,10,79,2020-07-22
+Poo Face@s.sfusd.edu,3,10,30,2020-07-22
+Poo Face@s.sfusd.edu,2,10,27,2020-07-22
+Poo Face@s.sfusd.edu,1,10,12,2020-07-22
+Maggie,1,10,11,2020-07-22
+Maggie,2,9,13,2020-07-22
+Maggie,3,10,27,2020-07-22
+Maggie,4,10,15,2020-07-22
+Maggie,5,9,22,2020-07-22
+Maggie,6,6,17,2020-07-22
+Maggie,7,9,49,2020-07-22
+Maggie,8,10,29,2020-07-22
+Maggie,9,10,26,2020-07-22
+Maggie,10,9,29,2020-07-22
+Maggie,11,10,15,2020-07-22
+Maggie,12,8,24,2020-07-22
+Poo Face@s.sfusd.edu,12,10,32,2020-07-28
+Poo Face@s.sfusd.edu,11,10,19,2020-07-28
+Poo Face@s.sfusd.edu,10,10,24,2020-07-28
+Poo Face@s.sfusd.edu,9,10,74,2020-07-28
+Poo Face@s.sfusd.edu,8,9,87,2020-07-28
+Poo Face@s.sfusd.edu,7,10,75,2020-07-28
+Poo Face@s.sfusd.edu,6,8,130,2020-07-28
+Poo Face@s.sfusd.edu,5,9,47,2020-07-28
+Poo Face@s.sfusd.edu,4,10,58,2020-07-28
+Poo Face@s.sfusd.edu,3,10,34,2020-07-28
+Poo Face@s.sfusd.edu,2,10,24,2020-07-28
+Poo Face@s.sfusd.edu,1,9,12,2020-07-28
+Maggie,1,10,10,2020-07-28
+Maggie,2,10,16,2020-07-28
+Maggie,3,10,37,2020-07-28
+Maggie,4,7,35,2020-07-28
+Maggie,6,8,57,2020-07-28
+Maggie,7,9,684,2020-07-28
+Maggie,8,9,227,2020-07-28
+Maggie,9,9,39,2020-07-28
+Maggie,10,9,13,2020-07-28
+Maggie,11,9,14,2020-07-28
+Maggie,12,9,75,2020-07-28
+Poo Face@s.sfusd.edu,12,9,33,2020-07-29
+Poo Face@s.sfusd.edu,11,10,30,2020-07-29
+Poo Face@s.sfusd.edu,10,9,19,2020-07-29
+Poo Face@s.sfusd.edu,9,10,67,2020-07-29
+Poo Face@s.sfusd.edu,8,10,23,2020-07-29
+Poo Face@s.sfusd.edu,7,10,21,2020-07-29
+Poo Face@s.sfusd.edu,6,10,30,2020-07-29
+Poo Face@s.sfusd.edu,5,10,22,2020-07-29
+Poo Face@s.sfusd.edu,4,10,30,2020-07-29
+Poo Face@s.sfusd.edu,3,10,34,2020-07-29
+Poo Face@s.sfusd.edu,2,8,20,2020-07-29
+Poo Face@s.sfusd.edu,1,10,10,2020-07-29
+Maggie,1,10,12,2020-07-29
+Maggie,2,10,17,2020-07-29
+Maggie,3,10,65,2020-07-29
+Maggie,4,9,57,2020-07-29
+Maggie,5,7,38,2020-07-29
+Maggie,6,6,48,2020-07-29
+Maggie,7,10,22,2020-07-29
+Maggie,8,10,84,2020-07-29
+Maggie,9,9,27,2020-07-29
+Maggie,10,9,15,2020-07-29
+Maggie,11,10,14,2020-07-29
+Maggie,12,8,42,2020-07-29
+Poo Face@s.sfusd.edu,12,10,41,2020-07-30
+Poo Face@s.sfusd.edu,11,10,21,2020-07-30
+Poo Face@s.sfusd.edu,10,10,36,2020-07-30
+Poo Face@s.sfusd.edu,9,9,85,2020-07-30
+Poo Face@s.sfusd.edu,8,10,112,2020-07-30
+Poo Face@s.sfusd.edu,7,10,29,2020-07-30
+Poo Face@s.sfusd.edu,6,10,31,2020-07-30
+Poo Face@s.sfusd.edu,5,10,19,2020-07-30
+Poo Face@s.sfusd.edu,4,10,43,2020-07-30
+Poo Face@s.sfusd.edu,3,10,52,2020-07-30
+Poo Face@s.sfusd.edu,2,10,18,2020-07-30
+Poo Face@s.sfusd.edu,1,10,12,2020-07-30
+Poo Face@s.sfusd.edu,12,9,45,2020-07-31
+Poo Face@s.sfusd.edu,11,10,26,2020-07-31
+Poo Face@s.sfusd.edu,10,10,21,2020-07-31
+Poo Face@s.sfusd.edu,9,10,69,2020-07-31
+Poo Face@s.sfusd.edu,8,10,28,2020-07-31
+Poo Face@s.sfusd.edu,7,10,22,2020-07-31
+Poo Face@s.sfusd.edu,6,10,45,2020-07-31
+Poo Face@s.sfusd.edu,5,10,24,2020-07-31
+Poo Face@s.sfusd.edu,4,10,31,2020-07-31
+Poo Face@s.sfusd.edu,3,10,25,2020-07-31
+Poo Face@s.sfusd.edu,2,10,17,2020-07-31
+Poo Face@s.sfusd.edu,1,10,14,2020-07-31
+Poo Face@s.sfusd.edu,12,10,47,2020-08-03
+Poo Face@s.sfusd.edu,11,10,15,2020-08-03
+Poo Face@s.sfusd.edu,10,9,28,2020-08-03
+Poo Face@s.sfusd.edu,9,10,56,2020-08-03
+Poo Face@s.sfusd.edu,8,10,63,2020-08-03
+Poo Face@s.sfusd.edu,7,10,42,2020-08-03
+Poo Face@s.sfusd.edu,6,10,71,2020-08-03
+Poo Face@s.sfusd.edu,5,10,58,2020-08-03
+Poo Face@s.sfusd.edu,4,9,62,2020-08-03
+Poo Face@s.sfusd.edu,3,10,54,2020-08-03
+Poo Face@s.sfusd.edu,2,10,26,2020-08-03
+Poo Face@s.sfusd.edu,1,10,19,2020-08-03
+Poo Face@s.sfusd.edu,12,9,26,2020-08-04
+Poo Face@s.sfusd.edu,11,10,18,2020-08-04
+Poo Face@s.sfusd.edu,10,10,20,2020-08-04
+Poo Face@s.sfusd.edu,9,10,29,2020-08-04
+Poo Face@s.sfusd.edu,8,10,24,2020-08-04
+Poo Face@s.sfusd.edu,7,10,31,2020-08-04
+Poo Face@s.sfusd.edu,6,10,50,2020-08-04
+Poo Face@s.sfusd.edu,5,10,34,2020-08-04
+Poo Face@s.sfusd.edu,4,8,37,2020-08-04
+Poo Face@s.sfusd.edu,3,10,67,2020-08-04
+Poo Face@s.sfusd.edu,2,10,20,2020-08-04
+Poo Face@s.sfusd.edu,1,10,14,2020-08-04
+Maggie,1,10,10,2020-08-04
+Maggie,2,10,15,2020-08-04
+Maggie,3,7,27,2020-08-04
+Maggie,4,8,27,2020-08-04
+Maggie,5,7,54,2020-08-04
+Maggie,6,8,42,2020-08-04
+Maggie,7,9,31,2020-08-04
+Maggie,8,4,23,2020-08-04
+Maggie,9,7,35,2020-08-04
+Maggie,10,10,19,2020-08-04
+Maggie,11,10,12,2020-08-04
+Maggie,12,8,34,2020-08-04
+Poo Face@s.sfusd.edu,12,10,47,2020-08-05
+Poo Face@s.sfusd.edu,11,10,21,2020-08-05
+Poo Face@s.sfusd.edu,10,10,20,2020-08-05
+Poo Face@s.sfusd.edu,9,10,91,2020-08-05
+Poo Face@s.sfusd.edu,8,10,56,2020-08-05
+Poo Face@s.sfusd.edu,7,10,70,2020-08-05
+Poo Face@s.sfusd.edu,6,10,87,2020-08-05
+Poo Face@s.sfusd.edu,5,10,21,2020-08-05
+Poo Face@s.sfusd.edu,4,10,72,2020-08-05
+Poo Face@s.sfusd.edu,3,10,46,2020-08-05
+Poo Face@s.sfusd.edu,2,10,45,2020-08-05
+Poo Face@s.sfusd.edu,1,10,12,2020-08-05
+Poo Face@s.sfusd.edu,12,9,30,2020-08-06
+Poo Face@s.sfusd.edu,11,10,32,2020-08-06
+Poo Face@s.sfusd.edu,10,10,21,2020-08-06
+Poo Face@s.sfusd.edu,9,10,169,2020-08-06
+Poo Face@s.sfusd.edu,8,10,91,2020-08-06
+Poo Face@s.sfusd.edu,7,10,35,2020-08-06
+Poo Face@s.sfusd.edu,6,10,102,2020-08-06
+Poo Face@s.sfusd.edu,5,10,44,2020-08-06
+Poo Face@s.sfusd.edu,4,10,26,2020-08-06
+Poo Face@s.sfusd.edu,3,10,22,2020-08-06
+Poo Face@s.sfusd.edu,2,10,31,2020-08-06
+Poo Face@s.sfusd.edu,1,10,12,2020-08-06
+Poo Face@s.sfusd.edu,6,0,3,2020-08-07
+Sarah ,7,10,28,2020-08-07
+erin,5,8,23,2020-08-08
+Poo Face@s.sfusd.edu,12,10,54,2020-08-10
+Poo Face@s.sfusd.edu,11,10,26,2020-08-10
+Poo Face@s.sfusd.edu,10,10,24,2020-08-10
+Poo Face@s.sfusd.edu,9,9,55,2020-08-10
+Poo Face@s.sfusd.edu,8,10,48,2020-08-10
+Poo Face@s.sfusd.edu,7,10,59,2020-08-10
+Poo Face@s.sfusd.edu,6,10,38,2020-08-10
+Poo Face@s.sfusd.edu,5,10,31,2020-08-10
+Poo Face@s.sfusd.edu,4,10,46,2020-08-10
+Poo Face@s.sfusd.edu,3,10,61,2020-08-10
+Poo Face@s.sfusd.edu,2,10,19,2020-08-10
+Poo Face@s.sfusd.edu,1,9,13,2020-08-10
+Poo Face@s.sfusd.edu,12,10,31,2020-08-11
+Poo Face@s.sfusd.edu,11,10,14,2020-08-11
+Poo Face@s.sfusd.edu,10,10,17,2020-08-11
+Poo Face@s.sfusd.edu,9,10,38,2020-08-11
+Poo Face@s.sfusd.edu,8,10,50,2020-08-11
+Poo Face@s.sfusd.edu,7,10,29,2020-08-11
+Poo Face@s.sfusd.edu,6,10,26,2020-08-11
+Poo Face@s.sfusd.edu,5,10,24,2020-08-11
+Poo Face@s.sfusd.edu,4,10,35,2020-08-11
+Poo Face@s.sfusd.edu,3,9,41,2020-08-11
+Poo Face@s.sfusd.edu,2,10,34,2020-08-11
+Poo Face@s.sfusd.edu,1,10,12,2020-08-11
+Maggie,1,10,9,2020-08-11
+Maggie,2,9,14,2020-08-11
+Maggie,3,8,36,2020-08-11
+Maggie,4,5,44,2020-08-11
+Maggie,5,10,17,2020-08-11
+Maggie,6,6,25,2020-08-11
+Maggie,7,7,49,2020-08-11
+Maggie,8,8,27,2020-08-11
+Maggie,9,9,47,2020-08-11
+Maggie,10,10,19,2020-08-11
+Maggie,11,8,14,2020-08-11
+Maggie,12,9,18,2020-08-11
+Poo Face@s.sfusd.edu,12,10,37,2020-08-12
+Poo Face@s.sfusd.edu,11,10,18,2020-08-12
+Poo Face@s.sfusd.edu,10,10,21,2020-08-12
+Poo Face@s.sfusd.edu,9,10,62,2020-08-12
+Poo Face@s.sfusd.edu,8,10,23,2020-08-12
+Poo Face@s.sfusd.edu,7,10,27,2020-08-12
+Poo Face@s.sfusd.edu,6,10,25,2020-08-12
+Poo Face@s.sfusd.edu,5,10,22,2020-08-12
+Poo Face@s.sfusd.edu,4,10,18,2020-08-12
+Poo Face@s.sfusd.edu,3,10,35,2020-08-12
+Poo Face@s.sfusd.edu,2,10,16,2020-08-12
+Poo Face@s.sfusd.edu,1,10,11,2020-08-12
+Maggie,1,10,12,2020-08-12
+Maggie,2,9,16,2020-08-12
+Maggie,3,8,43,2020-08-12
+Maggie,4,10,52,2020-08-12
+Maggie,5,10,31,2020-08-12
+Maggie,6,7,28,2020-08-12
+Maggie,6,1,4,2020-08-12
+Maggie,7,9,43,2020-08-12
+Maggie,8,8,76,2020-08-12
+Maggie,9,8,44,2020-08-12
+Maggie,10,8,17,2020-08-12
+Maggie,11,10,22,2020-08-12
+Maggie,12,7,57,2020-08-12
+Poo Face@s.sfusd.edu,12,9,51,2020-08-13
+Poo Face@s.sfusd.edu,11,10,29,2020-08-13
+Poo Face@s.sfusd.edu,10,10,19,2020-08-13
+Poo Face@s.sfusd.edu,9,10,95,2020-08-13
+Poo Face@s.sfusd.edu,8,10,66,2020-08-13
+Poo Face@s.sfusd.edu,8,2,8,2020-08-13
+Poo Face@s.sfusd.edu,7,10,81,2020-08-13
+Poo Face@s.sfusd.edu,6,10,69,2020-08-13
+Poo Face@s.sfusd.edu,5,10,47,2020-08-13
+Poo Face@s.sfusd.edu,2,9,56,2020-08-13
+Poo Face@s.sfusd.edu,4,10,44,2020-08-13
+Poo Face@s.sfusd.edu,3,9,26,2020-08-13
+Poo Face@s.sfusd.edu,1,10,11,2020-08-13
+Poo Face@s.sfusd.edu,12,10,26,2020-08-14
+Poo Face@s.sfusd.edu,11,10,19,2020-08-14
+Poo Face@s.sfusd.edu,10,10,21,2020-08-14
+Poo Face@s.sfusd.edu,9,10,47,2020-08-14
+Poo Face@s.sfusd.edu,9,0,7,2020-08-14
+Poo Face@s.sfusd.edu,8,10,23,2020-08-14
+Poo Face@s.sfusd.edu,7,10,35,2020-08-14
+Poo Face@s.sfusd.edu,6,10,26,2020-08-14
+Poo Face@s.sfusd.edu,5,9,23,2020-08-14
+Poo Face@s.sfusd.edu,4,10,34,2020-08-14
+Poo Face@s.sfusd.edu,3,10,18,2020-08-14
+Poo Face@s.sfusd.edu,2,10,26,2020-08-14
+Poo Face@s.sfusd.edu,1,10,11,2020-08-14
+Paula,7,0,4,2021-01-09
+Paula,1,2,21,2021-01-09
+Poo Face@s.sfusd.edu,11,9,0,2021-02-23
+Poo Face@s.sfusd.edu,11,9,16,2021-02-23
+Poo Face@s.sfusd.edu,11,10,15,2021-02-23
+Poo Face@s.sfusd.edu,11,9,16,2021-02-23
+Poo Face@s.sfusd.edu,10,10,17,2021-02-23
+Poo Face@s.sfusd.edu,11,6,12,2021-02-23
+Poo Face@s.sfusd.edu,11,9,14,2021-02-23
+Poo Face@s.sfusd.edu,11,10,14,2021-02-23
+Poo Face@s.sfusd.edu,10,10,12,2021-02-23
+Poo Face@s.sfusd.edu,1,8,13,2021-06-04
+Poo Face@s.sfusd.edu,2,10,20,2021-06-04
+Poo Face@s.sfusd.edu,3,10,50,2021-06-04
+Poo Face@s.sfusd.edu,4,10,32,2021-06-04
+Poo Face@s.sfusd.edu,5,8,47,2021-06-04
+Poo Face@s.sfusd.edu,6,10,70,2021-06-04
+Poo Face@s.sfusd.edu,7,8,44,2021-06-04
+Poo Face@s.sfusd.edu,8,6,98,2021-06-04
+Poo Face@s.sfusd.edu,7,8,0,2021-06-06
+Poo Face@s.sfusd.edu,1,10,10,2021-06-07
+Poo Face@s.sfusd.edu,32,0,8,2021-06-07
+Poo Face@s.sfusd.edu,2,10,18,2021-06-07
+Poo Face@s.sfusd.edu,3,10,23,2021-06-07
+Poo Face@s.sfusd.edu,4,9,23,2021-06-07
+Poo Face@s.sfusd.edu,5,10,20,2021-06-07
+Poo Face@s.sfusd.edu,7,9,57,2021-06-07
+Poo Face@s.sfusd.edu,6,8,67,2021-06-07
+Poo Face@s.sfusd.edu,8,9,72,2021-06-07
+Poo Face@s.sfusd.edu,9,8,60,2021-06-07
+Poo Face@s.sfusd.edu,10,10,24,2021-06-07
+Poo Face@s.sfusd.edu,11,8,46,2021-06-07
+Poo Face@s.sfusd.edu,1,10,11,2021-06-08
+Poo Face@s.sfusd.edu,2,10,21,2021-06-08
+Poo Face@s.sfusd.edu,4,10,33,2021-06-08
+Poo Face@s.sfusd.edu,3,10,24,2021-06-08
+Poo Face@s.sfusd.edu,5,9,38,2021-06-08
+Poo Face@s.sfusd.edu,6,10,60,2021-06-08
+Poo Face@s.sfusd.edu,7,10,52,2021-06-08
+Poo Face@s.sfusd.edu,8,9,28,2021-06-08
+Poo Face@s.sfusd.edu,9,10,33,2021-06-08
+Poo Face@s.sfusd.edu,10,10,18,2021-06-08
+Poo Face@s.sfusd.edu,1,10,12,2021-06-09
+Poo Face@s.sfusd.edu,6,10,51,2021-06-09
+Poo Face@s.sfusd.edu,7,9,60,2021-06-09
+Poo Face@s.sfusd.edu,8,9,70,2021-06-09
+Poo Face@s.sfusd.edu,7,10,36,2021-06-09
+Poo Face@s.sfusd.edu,9,10,73,2021-06-09
+Poo Face@s.sfusd.edu,10,10,18,2021-06-09
+Poo Face@s.sfusd.edu,11,10,32,2021-06-09
+Poo Face@s.sfusd.edu,12,8,61,2021-06-09
+Poo Face@s.sfusd.edu,1,8,12,2021-06-10
+Poo Face@s.sfusd.edu,1,10,11,2021-06-10
+Poo Face@s.sfusd.edu,2,10,14,2021-06-10
+Poo Face@s.sfusd.edu,3,9,20,2021-06-10
+Poo Face@s.sfusd.edu,4,10,30,2021-06-10
+Poo Face@s.sfusd.edu,5,10,17,2021-06-10
+Poo Face@s.sfusd.edu,6,9,21,2021-06-10
+Poo Face@s.sfusd.edu,7,10,38,2021-06-10
+Poo Face@s.sfusd.edu,8,10,38,2021-06-10
+Poo Face@s.sfusd.edu,9,10,27,2021-06-10
+Poo Face@s.sfusd.edu,10,10,16,2021-06-10
+Poo Face@s.sfusd.edu,11,7,72,2021-06-10
+Poo Face@s.sfusd.edu,12,9,30,2021-06-10
+Poo Face@s.sfusd.edu,1,8,12,2021-06-11
+Poo Face@s.sfusd.edu,1,9,11,2021-06-11
+Poo Face@s.sfusd.edu,1,10,10,2021-06-11
+Poo Face@s.sfusd.edu,2,10,20,2021-06-11
+Poo Face@s.sfusd.edu,3,10,28,2021-06-11
+Poo Face@s.sfusd.edu,4,10,28,2021-06-11
+Poo Face@s.sfusd.edu,5,10,20,2021-06-11
+Poo Face@s.sfusd.edu,6,10,46,2021-06-11
+Poo Face@s.sfusd.edu,7,10,28,2021-06-11
+Poo Face@s.sfusd.edu,8,10,38,2021-06-11
+Poo Face@s.sfusd.edu,9,9,48,2021-06-11
+Poo Face@s.sfusd.edu,10,10,17,2021-06-11
+Poo Face@s.sfusd.edu,11,10,50,2021-06-11
+Poo Face@s.sfusd.edu,12,10,31,2021-06-11
+Poo Face@s.sfusd.edu,1,10,12,2021-06-14
+Poo Face@s.sfusd.edu,2,9,24,2021-06-14
+Poo Face@s.sfusd.edu,4,10,28,2021-06-14
+Poo Face@s.sfusd.edu,3,10,22,2021-06-14
+Poo Face@s.sfusd.edu,5,10,19,2021-06-14
+Poo Face@s.sfusd.edu,6,10,37,2021-06-14
+Poo Face@s.sfusd.edu,7,10,33,2021-06-14
+Poo Face@s.sfusd.edu,8,8,30,2021-06-14
+Poo Face@s.sfusd.edu,9,10,31,2021-06-14
+Poo Face@s.sfusd.edu,10,10,16,2021-06-14
+Poo Face@s.sfusd.edu,11,10,18,2021-06-14
+Poo Face@s.sfusd.edu,12,8,29,2021-06-14
+Poo Face@s.sfusd.edu,1,10,11,2021-06-15
+Poo Face@s.sfusd.edu,2,10,30,2021-06-15
+Poo Face@s.sfusd.edu,3,9,21,2021-06-15
+Poo Face@s.sfusd.edu,4,10,34,2021-06-15
+Poo Face@s.sfusd.edu,5,10,22,2021-06-15
+Poo Face@s.sfusd.edu,6,10,51,2021-06-15
+Poo Face@s.sfusd.edu,7,10,27,2021-06-15
+Poo Face@s.sfusd.edu,8,10,27,2021-06-15
+Poo Face@s.sfusd.edu,9,10,33,2021-06-15
+Poo Face@s.sfusd.edu,10,10,14,2021-06-15
+Poo Face@s.sfusd.edu,11,10,17,2021-06-15
+Poo Face@s.sfusd.edu,12,10,22,2021-06-15
+Poo Face@s.sfusd.edu,1,10,12,2021-06-17
+Poo Face@s.sfusd.edu,2,10,15,2021-06-17
+Poo Face@s.sfusd.edu,3,10,21,2021-06-17
+Poo Face@s.sfusd.edu,4,10,37,2021-06-17
+Poo Face@s.sfusd.edu,5,10,31,2021-06-17
+Poo Face@s.sfusd.edu,6,10,33,2021-06-17
+Poo Face@s.sfusd.edu,7,10,35,2021-06-17
+Poo Face@s.sfusd.edu,8,10,22,2021-06-17
+Poo Face@s.sfusd.edu,9,10,48,2021-06-17
+Poo Face@s.sfusd.edu,10,10,17,2021-06-17
+Poo Face@s.sfusd.edu,11,10,18,2021-06-17
+Poo Face@s.sfusd.edu,12,10,29,2021-06-17
+Poo Face@s.sfusd.edu,1,10,10,2021-06-21
+Poo Face@s.sfusd.edu,2,9,21,2021-06-21
+Poo Face@s.sfusd.edu,2,10,19,2021-06-21
+Poo Face@s.sfusd.edu,3,5,19,2021-06-21
+Poo Face@s.sfusd.edu,3,10,29,2021-06-21
+Poo Face@s.sfusd.edu,4,9,24,2021-06-21
+Poo Face@s.sfusd.edu,1,10,11,2021-06-21
+Poo Face@s.sfusd.edu,2,9,26,2021-06-21
+Poo Face@s.sfusd.edu,3,10,22,2021-06-21
+Poo Face@s.sfusd.edu,4,10,33,2021-06-21
+Poo Face@s.sfusd.edu,5,10,24,2021-06-21
+Poo Face@s.sfusd.edu,6,9,23,2021-06-21
+Poo Face@s.sfusd.edu,7,10,22,2021-06-21
+Poo Face@s.sfusd.edu,8,9,79,2021-06-21
+Poo Face@s.sfusd.edu,9,10,51,2021-06-21
+Poo Face@s.sfusd.edu,10,10,14,2021-06-21
+Poo Face@s.sfusd.edu,11,10,14,2021-06-21
+Poo Face@s.sfusd.edu,12,10,30,2021-06-21
+Poo Face@s.sfusd.edu,1,9,10,2021-06-22
+Poo Face@s.sfusd.edu,1,10,10,2021-06-22
+Poo Face@s.sfusd.edu,2,10,15,2021-06-22
+Poo Face@s.sfusd.edu,3,10,22,2021-06-22
+Poo Face@s.sfusd.edu,4,10,22,2021-06-22
+Poo Face@s.sfusd.edu,5,10,17,2021-06-22
+Poo Face@s.sfusd.edu,6,8,50,2021-06-22
+Poo Face@s.sfusd.edu,7,10,28,2021-06-22
+Poo Face@s.sfusd.edu,8,10,19,2021-06-22
+Poo Face@s.sfusd.edu,9,10,20,2021-06-22
+Poo Face@s.sfusd.edu,10,9,14,2021-06-22
+Poo Face@s.sfusd.edu,10,10,14,2021-06-22
+Poo Face@s.sfusd.edu,11,9,16,2021-06-22
+Poo Face@s.sfusd.edu,12,9,27,2021-06-22
+1Poo Face@s.sfusd.edu,1,10,11,2021-06-23
+Poo Face@s.sfusd.edu,1,9,10,2021-06-23
+Poo Face@s.sfusd.edu,1,10,10,2021-06-23
+Poo Face@s.sfusd.edu,2,10,15,2021-06-23
+Poo Face@s.sfusd.edu,3,10,28,2021-06-23
+Poo Face@s.sfusd.edu,3,10,27,2021-06-23
+Poo Face@s.sfusd.edu,4,10,24,2021-06-23
+Poo Face@s.sfusd.edu,5,10,22,2021-06-23
+Poo Face@s.sfusd.edu,6,10,22,2021-06-23
+Poo Face@s.sfusd.edu,7,10,20,2021-06-23
+Poo Face@s.sfusd.edu,8,10,23,2021-06-23
+Poo Face@s.sfusd.edu,9,10,17,2021-06-23
+Poo Face@s.sfusd.edu,10,10,13,2021-06-23
+Poo Face@s.sfusd.edu,12,10,20,2021-06-23
+Poo Face@s.sfusd.edu,1,10,9,2021-06-24
+Poo Face@s.sfusd.edu,2,9,20,2021-06-24
+Poo Face@s.sfusd.edu,3,10,18,2021-06-24
+Poo Face@s.sfusd.edu,4,10,31,2021-06-24
+Poo Face@s.sfusd.edu,5,10,29,2021-06-24
+Poo Face@s.sfusd.edu,6,10,28,2021-06-24
+Poo Face@s.sfusd.edu,7,10,22,2021-06-24
+Poo Face@s.sfusd.edu,8,9,26,2021-06-24
+Poo Face@s.sfusd.edu,9,9,30,2021-06-24
+Poo Face@s.sfusd.edu,10,10,14,2021-06-24
+Poo Face@s.sfusd.edu,11,9,19,2021-06-24
+Poo Face@s.sfusd.edu,12,10,22,2021-06-24
+Poo Face@s.sfusd.edu,1,10,10,2021-06-25
+Poo Face@s.sfusd.edu,2,10,13,2021-06-25
+Poo Face@s.sfusd.edu,3,10,12,2021-06-25
+Poo Face@s.sfusd.edu,4,10,23,2021-06-25
+Poo Face@s.sfusd.edu,5,10,16,2021-06-25
+Poo Face@s.sfusd.edu,6,10,22,2021-06-25
+Poo Face@s.sfusd.edu,7,9,19,2021-06-25
+Poo Face@s.sfusd.edu,8,10,17,2021-06-25
+Poo Face@s.sfusd.edu,9,9,22,2021-06-25
+Poo Face@s.sfusd.edu,10,10,14,2021-06-25
+Poo Face@s.sfusd.edu,11,10,15,2021-06-25
+Poo Face@s.sfusd.edu,12,8,29,2021-06-25
+Poo Face@s.sfusd.edu,1,10,11,2021-06-28
+Poo Face@s.sfusd.edu,2,9,17,2021-06-28
+Poo Face@s.sfusd.edu,3,10,20,2021-06-28
+Poo Face@s.sfusd.edu,4,10,22,2021-06-28
+Poo Face@s.sfusd.edu,5,10,21,2021-06-28
+Poo Face@s.sfusd.edu,6,10,16,2021-06-28
+Poo Face@s.sfusd.edu,7,9,26,2021-06-28
+Poo Face@s.sfusd.edu,8,10,37,2021-06-28
+Poo Face@s.sfusd.edu,9,10,25,2021-06-28
+Poo Face@s.sfusd.edu,10,10,17,2021-06-28
+Poo Face@s.sfusd.edu,11,10,18,2021-06-28
+Poo Face@s.sfusd.edu,12,10,19,2021-06-28
+Poo Face@s.sfusd.edu,1,10,11,2021-06-29
+Poo Face@s.sfusd.edu,2,9,19,2021-06-29
+Poo Face@s.sfusd.edu,3,10,21,2021-06-29
+Poo Face@s.sfusd.edu,4,10,18,2021-06-29
+Poo Face@s.sfusd.edu,5,9,18,2021-06-29
+Poo Face@s.sfusd.edu,6,10,21,2021-06-29
+Poo Face@s.sfusd.edu,7,10,19,2021-06-29
+Poo Face@s.sfusd.edu,8,10,22,2021-06-29
+Poo Face@s.sfusd.edu,9,10,27,2021-06-29
+Poo Face@s.sfusd.edu,10,10,15,2021-06-29
+Poo Face@s.sfusd.edu,11,9,14,2021-06-29
+Poo Face@s.sfusd.edu,12,10,22,2021-06-29
+Poo Face@s.sfusd.edu,1,10,10,2021-06-30
+Poo Face@s.sfusd.edu,2,10,14,2021-06-30
+Poo Face@s.sfusd.edu,3,10,16,2021-06-30
+Poo Face@s.sfusd.edu,4,10,45,2021-06-30
+Poo Face@s.sfusd.edu,5,8,23,2021-06-30
+Poo Face@s.sfusd.edu,6,10,41,2021-06-30
+Poo Face@s.sfusd.edu,7,10,23,2021-06-30
+Poo Face@s.sfusd.edu,8,10,17,2021-06-30
+Poo Face@s.sfusd.edu,9,10,28,2021-06-30
+Poo Face@s.sfusd.edu,10,10,15,2021-06-30
+Poo Face@s.sfusd.edu,11,10,15,2021-06-30
+Poo Face@s.sfusd.edu,12,10,17,2021-06-30
+Poo Face@s.sfusd.edu,1,10,11,2021-07-01
+Poo Face@s.sfusd.edu,2,10,15,2021-07-01
+Poo Face@s.sfusd.edu,3,10,17,2021-07-01
+Poo Face@s.sfusd.edu,4,9,31,2021-07-01
+Poo Face@s.sfusd.edu,5,10,19,2021-07-01
+Poo Face@s.sfusd.edu,6,9,24,2021-07-01
+Poo Face@s.sfusd.edu,7,9,27,2021-07-01
+Poo Face@s.sfusd.edu,8,10,27,2021-07-01
+Poo Face@s.sfusd.edu,9,9,28,2021-07-01
+Poo Face@s.sfusd.edu,10,9,15,2021-07-01
+Poo Face@s.sfusd.edu,11,10,14,2021-07-01
+Poo Face@s.sfusd.edu,12,10,18,2021-07-01
+Poo Face@s.sfusd.edu,1,10,10,2021-07-06
+Poo Face@s.sfusd.edu,2,10,40,2021-07-06
+Poo Face@s.sfusd.edu,3,10,26,2021-07-06
+Poo Face@s.sfusd.edu,4,10,32,2021-07-06
+Poo Face@s.sfusd.edu,5,10,68,2021-07-06
+Poo Face@s.sfusd.edu,6,10,77,2021-07-06
+Poo Face@s.sfusd.edu,7,9,34,2021-07-06
+Poo Face@s.sfusd.edu,8,9,59,2021-07-06
+Poo Face@s.sfusd.edu,9,10,56,2021-07-06
+Poo Face@s.sfusd.edu,10,10,15,2021-07-06
+Poo Face@s.sfusd.edu,11,10,15,2021-07-06
+Poo Face@s.sfusd.edu,12,10,24,2021-07-06
+Poo Face@s.sfusd.edu,1,10,10,2021-07-07
+Poo Face@s.sfusd.edu,2,9,15,2021-07-07
+Poo Face@s.sfusd.edu,3,10,15,2021-07-07
+Poo Face@s.sfusd.edu,4,10,24,2021-07-07
+Poo Face@s.sfusd.edu,5,10,18,2021-07-07
+Poo Face@s.sfusd.edu,6,10,16,2021-07-07
+Poo Face@s.sfusd.edu,6,0,13,2021-07-07
+Poo Face@s.sfusd.edu,7,10,23,2021-07-07
+Poo Face@s.sfusd.edu,8,10,39,2021-07-07
+Poo Face@s.sfusd.edu,9,10,38,2021-07-07
+Poo Face@s.sfusd.edu,10,10,13,2021-07-07
+Poo Face@s.sfusd.edu,11,10,19,2021-07-07
+Poo Face@s.sfusd.edu,12,9,22,2021-07-07
+Poo Face@s.sfusd.edu,1,10,10,2021-07-08
+Poo Face@s.sfusd.edu,2,10,14,2021-07-08
+Poo Face@s.sfusd.edu,3,10,20,2021-07-08
+Poo Face@s.sfusd.edu,4,9,16,2021-07-08
+Poo Face@s.sfusd.edu,5,9,18,2021-07-08
+Poo Face@s.sfusd.edu,6,10,24,2021-07-08
+Poo Face@s.sfusd.edu,7,9,20,2021-07-08
+Poo Face@s.sfusd.edu,8,10,22,2021-07-08
+Poo Face@s.sfusd.edu,9,10,23,2021-07-08
+Poo Face@s.sfusd.edu,10,10,13,2021-07-08
+Poo Face@s.sfusd.edu,11,9,17,2021-07-08
+Poo Face@s.sfusd.edu,12,10,26,2021-07-08
+Poo Face@s.sfusd.edu,1,10,9,2021-07-09
+Poo Face@s.sfusd.edu,2,9,24,2021-07-09
+Poo Face@s.sfusd.edu,3,9,21,2021-07-09
+Poo Face@s.sfusd.edu,4,10,22,2021-07-09
+Poo Face@s.sfusd.edu,5,10,21,2021-07-09
+Poo Face@s.sfusd.edu,6,10,35,2021-07-09
+Poo Face@s.sfusd.edu,7,8,38,2021-07-09
+Poo Face@s.sfusd.edu,8,9,28,2021-07-09
+Poo Face@s.sfusd.edu,9,10,31,2021-07-09
+Poo Face@s.sfusd.edu,10,9,15,2021-07-09
+Poo Face@s.sfusd.edu,11,10,14,2021-07-09
+Poo Face@s.sfusd.edu,12,10,22,2021-07-09
+Poo Face@s.sfusd.edu,1,10,10,2021-07-12
+Poo Face@s.sfusd.edu,2,10,13,2021-07-12
+Poo Face@s.sfusd.edu,3,9,22,2021-07-12
+Poo Face@s.sfusd.edu,4,10,22,2021-07-12
+Poo Face@s.sfusd.edu,5,10,20,2021-07-12
+Poo Face@s.sfusd.edu,6,10,30,2021-07-12
+Poo Face@s.sfusd.edu,7,8,32,2021-07-12
+Poo Face@s.sfusd.edu,8,10,29,2021-07-12
+Poo Face@s.sfusd.edu,9,10,16,2021-07-12
+Poo Face@s.sfusd.edu,10,10,15,2021-07-12
+Poo Face@s.sfusd.edu,11,10,14,2021-07-12
+Poo Face@s.sfusd.edu,12,10,19,2021-07-12
+Poo Face@s.sfusd.edu,1,10,9,2021-07-13
+Poo Face@s.sfusd.edu,2,10,17,2021-07-13
+Poo Face@s.sfusd.edu,3,10,38,2021-07-13
+Poo Face@s.sfusd.edu,4,10,35,2021-07-13
+Poo Face@s.sfusd.edu,5,10,25,2021-07-13
+Poo Face@s.sfusd.edu,6,10,14,2021-07-13
+Poo Face@s.sfusd.edu,7,5,36,2021-07-13
+Poo Face@s.sfusd.edu,8,10,16,2021-07-13
+Poo Face@s.sfusd.edu,9,9,49,2021-07-13
+Poo Face@s.sfusd.edu,10,10,15,2021-07-13
+Poo Face@s.sfusd.edu,1,6,15,2021-07-13
+Poo Face@s.sfusd.edu,11,10,15,2021-07-13
+Poo Face@s.sfusd.edu,12,9,21,2021-07-13
+Poo Face@s.sfusd.edu,1,10,10,2021-07-14
+Poo Face@s.sfusd.edu,2,10,13,2021-07-14
+Poo Face@s.sfusd.edu,3,8,21,2021-07-14
+Poo Face@s.sfusd.edu,4,10,37,2021-07-14
+Poo Face@s.sfusd.edu,5,10,20,2021-07-14
+Poo Face@s.sfusd.edu,6,9,28,2021-07-14
+Poo Face@s.sfusd.edu,7,10,17,2021-07-14
+Poo Face@s.sfusd.edu,8,10,48,2021-07-14
+Poo Face@s.sfusd.edu,9,10,33,2021-07-14
+Poo Face@s.sfusd.edu,10,8,13,2021-07-14
+Poo Face@s.sfusd.edu,11,10,13,2021-07-14
+Poo Face@s.sfusd.edu,12,9,68,2021-07-14
+Poo Face@s.sfusd.edu,1,10,10,2021-07-15
+Poo Face@s.sfusd.edu,2,9,13,2021-07-15
+Poo Face@s.sfusd.edu,3,10,18,2021-07-15
+Poo Face@s.sfusd.edu,4,10,25,2021-07-15
+Poo Face@s.sfusd.edu,5,10,16,2021-07-15
+Poo Face@s.sfusd.edu,6,10,27,2021-07-15
+Poo Face@s.sfusd.edu,7,10,48,2021-07-15
+Poo Face@s.sfusd.edu,8,9,41,2021-07-15
+Poo Face@s.sfusd.edu,9,10,22,2021-07-15
+Poo Face@s.sfusd.edu,10,10,17,2021-07-15
+Poo Face@s.sfusd.edu,11,10,17,2021-07-15
+Poo Face@s.sfusd.edu,12,10,17,2021-07-15
+Poo Face@s.sfusd.edu,1,9,9,2021-07-16
+Poo Face@s.sfusd.edu,2,10,22,2021-07-16
+Poo Face@s.sfusd.edu,3,10,15,2021-07-16
+Poo Face@s.sfusd.edu,4,10,21,2021-07-16
+Poo Face@s.sfusd.edu,5,10,23,2021-07-16
+Poo Face@s.sfusd.edu,6,8,27,2021-07-16
+Poo Face@s.sfusd.edu,8,10,48,2021-07-16
+Poo Face@s.sfusd.edu,7,10,29,2021-07-16
+Poo Face@s.sfusd.edu,9,10,16,2021-07-16
+Poo Face@s.sfusd.edu,10,9,14,2021-07-16
+Poo Face@s.sfusd.edu,11,9,14,2021-07-16
+Poo Face@s.sfusd.edu,12,10,19,2021-07-16
+Poo Face@s.sfusd.edu,1,9,10,2021-07-19
+Poo Face@s.sfusd.edu,2,10,14,2021-07-19
+Poo Face@s.sfusd.edu,3,10,13,2021-07-19
+Poo Face@s.sfusd.edu,4,10,15,2021-07-19
+Poo Face@s.sfusd.edu,5,8,20,2021-07-19
+Poo Face@s.sfusd.edu,6,9,21,2021-07-19
+Poo Face@s.sfusd.edu,7,10,18,2021-07-19
+Poo Face@s.sfusd.edu,8,10,28,2021-07-19
+Poo Face@s.sfusd.edu,9,10,25,2021-07-19
+Poo Face@s.sfusd.edu,10,10,15,2021-07-19
+Poo Face@s.sfusd.edu,11,10,17,2021-07-19
+Poo Face@s.sfusd.edu,12,10,16,2021-07-19
+Poo Face@s.sfusd.edu,1,10,10,2021-07-20
+Poo Face@s.sfusd.edu,2,9,18,2021-07-20
+Poo Face@s.sfusd.edu,3,10,41,2021-07-20
+Poo Face@s.sfusd.edu,4,10,18,2021-07-20
+Poo Face@s.sfusd.edu,5,10,31,2021-07-20
+Poo Face@s.sfusd.edu,6,10,62,2021-07-20
+Poo Face@s.sfusd.edu,7,10,111,2021-07-20
+Poo Face@s.sfusd.edu,8,10,109,2021-07-20
+Poo Face@s.sfusd.edu,9,9,61,2021-07-20
+Poo Face@s.sfusd.edu,10,10,13,2021-07-20
+Poo Face@s.sfusd.edu,11,10,12,2021-07-20
+Poo Face@s.sfusd.edu,12,8,23,2021-07-20
+Poo Face@s.sfusd.edu,1,10,10,2021-07-21
+Poo Face@s.sfusd.edu,2,10,14,2021-07-21
+Poo Face@s.sfusd.edu,3,9,22,2021-07-21
+Poo Face@s.sfusd.edu,4,10,21,2021-07-21
+Poo Face@s.sfusd.edu,5,10,14,2021-07-21
+Poo Face@s.sfusd.edu,6,9,24,2021-07-21
+Poo Face@s.sfusd.edu,7,9,25,2021-07-21
+Poo Face@s.sfusd.edu,8,10,24,2021-07-21
+Poo Face@s.sfusd.edu,9,10,23,2021-07-21
+Poo Face@s.sfusd.edu,10,9,14,2021-07-21
+Poo Face@s.sfusd.edu,11,9,11,2021-07-21
+Poo Face@s.sfusd.edu,12,10,21,2021-07-21
+Poo Face@s.sfusd.edu,1,10,9,2021-07-22
+Poo Face@s.sfusd.edu,2,10,16,2021-07-22
+Poo Face@s.sfusd.edu,3,10,16,2021-07-22
+Poo Face@s.sfusd.edu,4,10,25,2021-07-22
+Poo Face@s.sfusd.edu,5,10,24,2021-07-22
+Poo Face@s.sfusd.edu,6,10,26,2021-07-22
+Poo Face@s.sfusd.edu,7,10,21,2021-07-22
+Poo Face@s.sfusd.edu,8,9,22,2021-07-22
+Poo Face@s.sfusd.edu,10,10,16,2021-07-22
+Poo Face@s.sfusd.edu,11,10,12,2021-07-22
+Poo Face@s.sfusd.edu,12,10,20,2021-07-22
+Poo Face@s.sfusd.edu,100,9,19,2021-07-22
+Poo Face@s.sfusd.edu,1,10,10,2021-07-26
+Poo Face@s.sfusd.edu,2,9,15,2021-07-26
+Poo Face@s.sfusd.edu,3,10,20,2021-07-26
+Poo Face@s.sfusd.edu,4,10,25,2021-07-26
+Poo Face@s.sfusd.edu,5,10,30,2021-07-26
+Poo Face@s.sfusd.edu,6,10,24,2021-07-26
+Poo Face@s.sfusd.edu,7,10,22,2021-07-26
+Poo Face@s.sfusd.edu,8,10,35,2021-07-26
+Poo Face@s.sfusd.edu,9,10,36,2021-07-26
+Poo Face@s.sfusd.edu,10,10,15,2021-07-26
+Poo Face@s.sfusd.edu,11,9,20,2021-07-26
+Poo Face@s.sfusd.edu,12,10,28,2021-07-26
+Poo Face@s.sfusd.edu,1,10,11,2021-07-27
+Poo Face@s.sfusd.edu,2,9,15,2021-07-27
+Poo Face@s.sfusd.edu,3,9,17,2021-07-27
+Poo Face@s.sfusd.edu,4,10,22,2021-07-27
+Poo Face@s.sfusd.edu,5,10,18,2021-07-27
+Poo Face@s.sfusd.edu,6,10,24,2021-07-27
+Poo Face@s.sfusd.edu,7,8,22,2021-07-27
+Poo Face@s.sfusd.edu,8,10,27,2021-07-27
+Poo Face@s.sfusd.edu,9,9,18,2021-07-27
+Poo Face@s.sfusd.edu,10,10,15,2021-07-27
+Poo Face@s.sfusd.edu,11,7,14,2021-07-27
+Poo Face@s.sfusd.edu,12,10,19,2021-07-27
+Poo Face@s.sfusd.edu,1,10,10,2021-07-28
+Poo Face@s.sfusd.edu,2,10,19,2021-07-28
+Poo Face@s.sfusd.edu,3,10,25,2021-07-28
+Poo Face@s.sfusd.edu,4,10,22,2021-07-28
+Poo Face@s.sfusd.edu,5,10,34,2021-07-28
+Poo Face@s.sfusd.edu,6,9,29,2021-07-28
+Poo Face@s.sfusd.edu,7,10,47,2021-07-28
+Poo Face@s.sfusd.edu,8,9,39,2021-07-28
+Poo Face@s.sfusd.edu,9,9,26,2021-07-28
+Poo Face@s.sfusd.edu,10,10,15,2021-07-28
+Poo Face@s.sfusd.edu,11,10,14,2021-07-28
+Poo Face@s.sfusd.edu,12,10,23,2021-07-28
+Poo Face@s.sfusd.edu,1,10,10,2021-07-29
+Poo Face@s.sfusd.edu,2,10,21,2021-07-29
+Poo Face@s.sfusd.edu,3,10,24,2021-07-29
+Poo Face@s.sfusd.edu,4,10,37,2021-07-29
+Poo Face@s.sfusd.edu,5,10,56,2021-07-29
+Poo Face@s.sfusd.edu,6,10,23,2021-07-29
+Poo Face@s.sfusd.edu,7,8,61,2021-07-29
+Poo Face@s.sfusd.edu,8,10,30,2021-07-29
+Poo Face@s.sfusd.edu,9,10,38,2021-07-29
+Poo Face@s.sfusd.edu,10,10,16,2021-07-29
+Poo Face@s.sfusd.edu,11,10,14,2021-07-29
+Poo Face@s.sfusd.edu,12,10,21,2021-07-29
+Poo Face@s.sfusd.edu,1,10,10,2021-08-03
+Poo Face@s.sfusd.edu,2,9,21,2021-08-03
+Poo Face@s.sfusd.edu,3,10,27,2021-08-03
+Poo Face@s.sfusd.edu,4,9,33,2021-08-03
+Poo Face@s.sfusd.edu,5,10,45,2021-08-03
+Poo Face@s.sfusd.edu,6,10,52,2021-08-03
+Poo Face@s.sfusd.edu,7,10,18,2021-08-03
+Poo Face@s.sfusd.edu,8,8,28,2021-08-03
+Poo Face@s.sfusd.edu,9,9,49,2021-08-03
+Poo Face@s.sfusd.edu,10,10,15,2021-08-03
+Poo Face@s.sfusd.edu,11,10,16,2021-08-03
+Poo Face@s.sfusd.edu,12,10,50,2021-08-03
+Poo Face@s.sfusd.edu,1,0,6,2021-08-04
+Poo Face@s.sfusd.edu,1,9,12,2021-08-04
+Poo Face@s.sfusd.edu,1,4,7,2021-08-04
+Poo Face@s.sfusd.edu,1,10,15,2021-08-04
+Poo Face@s.sfusd.edu,2,5,27,2021-08-04
+Poo Face@s.sfusd.edu,2,10,18,2021-08-04
+Poo Face@s.sfusd.edu,3,10,32,2021-08-04
+Poo Face@s.sfusd.edu,4,10,44,2021-08-04
+Poo Face@s.sfusd.edu,5,10,14,2021-08-04
+Poo Face@s.sfusd.edu,6,9,49,2021-08-04
+Poo Face@s.sfusd.edu,1,10,11,2021-08-05
+Poo Face@s.sfusd.edu,2,10,17,2021-08-05
+Poo Face@s.sfusd.edu,3,10,32,2021-08-05
+Poo Face@s.sfusd.edu,4,10,27,2021-08-05
+Poo Face@s.sfusd.edu,5,10,21,2021-08-05
+Poo Face@s.sfusd.edu,6,10,24,2021-08-05
+Poo Face@s.sfusd.edu,7,10,19,2021-08-05
+Poo Face@s.sfusd.edu,8,10,22,2021-08-05
+Poo Face@s.sfusd.edu,9,10,57,2021-08-05
+Poo Face@s.sfusd.edu,10,10,14,2021-08-05
+Poo Face@s.sfusd.edu,11,10,12,2021-08-05
+Poo Face@s.sfusd.edu,12,10,17,2021-08-05
+Poo Face@s.sfusd.edu,1,10,10,2021-08-06
+Poo Face@s.sfusd.edu,2,10,14,2021-08-06
+Poo Face@s.sfusd.edu,3,10,20,2021-08-06
+Poo Face@s.sfusd.edu,4,10,17,2021-08-06
+Poo Face@s.sfusd.edu,5,10,16,2021-08-06
+Poo Face@s.sfusd.edu,6,9,40,2021-08-06
+Poo Face@s.sfusd.edu,7,10,16,2021-08-06
+Poo Face@s.sfusd.edu,8,10,20,2021-08-06
+Poo Face@s.sfusd.edu,9,10,22,2021-08-06
+Poo Face@s.sfusd.edu,10,9,17,2021-08-06
+Poo Face@s.sfusd.edu,11,9,13,2021-08-06
+Poo Face@s.sfusd.edu,12,10,16,2021-08-06
+Poo Face@s.sfusd.edu,1,10,10,2021-08-09
+Poo Face@s.sfusd.edu,2,10,17,2021-08-09
+Poo Face@s.sfusd.edu,3,10,26,2021-08-09
+Poo Face@s.sfusd.edu,4,9,20,2021-08-09
+Poo Face@s.sfusd.edu,5,9,32,2021-08-09
+Poo Face@s.sfusd.edu,6,10,21,2021-08-09
+Poo Face@s.sfusd.edu,7,10,22,2021-08-09
+Poo Face@s.sfusd.edu,8,10,18,2021-08-09
+Poo Face@s.sfusd.edu,9,10,30,2021-08-09
+Poo Face@s.sfusd.edu,10,9,13,2021-08-09
+Poo Face@s.sfusd.edu,12,9,19,2021-08-09
+Poo Face@s.sfusd.edu,1,10,10,2021-08-10
+Poo Face@s.sfusd.edu,2,8,24,2021-08-10
+Poo Face@s.sfusd.edu,1,10,9,2021-08-10
+Poo Face@s.sfusd.edu,2,10,14,2021-08-10
+Poo Face@s.sfusd.edu,3,10,12,2021-08-10
+Poo Face@s.sfusd.edu,4,10,39,2021-08-10
+Poo Face@s.sfusd.edu,5,10,22,2021-08-10
+Poo Face@s.sfusd.edu,6,10,17,2021-08-10
+Poo Face@s.sfusd.edu,7,10,15,2021-08-10
+Poo Face@s.sfusd.edu,8,10,22,2021-08-10
+Poo Face@s.sfusd.edu,9,10,18,2021-08-10
+Poo Face@s.sfusd.edu,10,10,14,2021-08-10
+Poo Face@s.sfusd.edu,11,10,14,2021-08-10
+Poo Face@s.sfusd.edu,12,10,19,2021-08-10
+Poo Face@s.sfusd.edu,1,10,11,2021-08-12
+Poo Face@s.sfusd.edu,2,9,19,2021-08-12
+Poo Face@s.sfusd.edu,3,10,13,2021-08-12
+Poo Face@s.sfusd.edu,4,10,23,2021-08-12
+Poo Face@s.sfusd.edu,5,10,56,2021-08-12
+Poo Face@s.sfusd.edu,6,10,18,2021-08-12
+Poo Face@s.sfusd.edu,7,10,25,2021-08-12
+Poo Face@s.sfusd.edu,8,10,18,2021-08-12
+Poo Face@s.sfusd.edu,9,9,42,2021-08-12
+Poo Face@s.sfusd.edu,10,10,17,2021-08-12
+Poo Face@s.sfusd.edu,11,10,12,2021-08-12
+Poo Face@s.sfusd.edu,12,9,26,2021-08-12
+Maggie,5,0,0,2022-10-12
+Paula,5,10,19,2022-10-17
